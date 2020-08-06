@@ -1,0 +1,1 @@
+# variable-size-sudoku-validator
